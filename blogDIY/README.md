@@ -1,24 +1,22 @@
-# <font color="#00CED1"><center> ���˲��ͽ�վ�̳� </center></font>
+# <font color="#00CED1"><center> 个人博客建站教程 </center></font>
 ***
 <br>
 
 [](blogDIY)
 
-���̳���ҪΧ��GitBook��GitHub��GitPage��Jekyll������������һ������������˲��ͣ����а���������֪ʶ�㣺
+本教程主要围绕GitBook、GitHub、GitPage和Jekyll来引导大家如何一步步来部署个人博客，其中包含了如下知识点：
 
-- markdown�﷨
-- GitBookʹ������
-- Jekyll����
+- markdown语法
+- GitBook使用入门
+- Jekyll概述
 
-���н����һЩ�ٷ����ĵ��Լ��ڻ��������ҵ���һЩ���ݣ���Ҫ��ϸ��˾���д�ɡ����ھ������ޣ�������������©�������ⲻ��λ�ĵط������븫����
+其中借鉴了一些官方的文档以及在互联网上找到的一些内容，主要结合个人经验写成。由于经验有限，难免存在诸多疏漏或者理解不到位的地方，还请斧正！
 
-<center><b> �޶���ʷ��¼ </b>
+<center><b> 修订历史记录 </b>
 
 
-|����汾��|����|�������(A*M*D)|�޸���|ժҪ|��ע|
+|变更版本号|日期|变更类型(A*M*D)|修改人|摘要|备注|
 |---|---|---|---|---|---|
-|v1.0|2018-08-14|A|�¿�|����||
+|v1.0|2018-08-14|A|陈俊|创建||
 
 </center>
-
-
