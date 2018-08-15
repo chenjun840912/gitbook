@@ -1,16 +1,16 @@
 {
 	"title": "Docker运维教程",
-    "description": "Docker Swarm Harbor",
-    "author": "陈俊",
-    "language": "zh-hans",
+	"description": "Docker Swarm Harbor",
+	"author": "陈俊",
+	"language": "zh-hans",
 	"gitbook": "3.2.3",
-    "links": {
+	"links": {
 		"sidebar": {
 			"博客主页": "http://www.chenjun.vip"
 		}
 	},
 
-	
+
 	"plugins": [
 		"-sharing",
 		"sharing-plus",
@@ -54,7 +54,7 @@
 					"value": "http://gitbook.zhangjikai.com",
 					"text": "CE v17.03"
 				}
-            ]
+        		]
 		},
 		
 		"donate": {
