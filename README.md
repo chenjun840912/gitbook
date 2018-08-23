@@ -3,3 +3,6 @@
 
 # .gitignore
 **/_book
+
+# web更新方式
+windows本地编辑 --> git push  --> webserver pull  --> nohup process liverestore.
