@@ -6,7 +6,7 @@
 	"gitbook": "3.2.3",
 	"links": {
 		"sidebar": {
-			"博客主页": "http://www.chenjun.vip"
+			"博客主页": "http://chenjun.vip/blog/"
 		}
 	},
 
@@ -48,8 +48,8 @@
 		"versions": {
 			"options": [
 				{
-					"value": "http://gitbook.zhangjikai.com",
-					"text": "CE v17.03"
+					"value": "http://chenjun.vip/blog/",
+					"text": "Docker Engine CE v17.05"
 				}
         		]
 		},
